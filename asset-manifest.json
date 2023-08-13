@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/https//shani943.github.io/newsnarayan/static/css/main.073c9b0a.css",
+    "main.js": "/https//shani943.github.io/newsnarayan/static/js/main.84e0f7c3.js",
+    "static/js/787.20d24746.chunk.js": "/https//shani943.github.io/newsnarayan/static/js/787.20d24746.chunk.js",
+    "index.html": "/https//shani943.github.io/newsnarayan/index.html",
+    "main.073c9b0a.css.map": "/https//shani943.github.io/newsnarayan/static/css/main.073c9b0a.css.map",
+    "main.84e0f7c3.js.map": "/https//shani943.github.io/newsnarayan/static/js/main.84e0f7c3.js.map",
+    "787.20d24746.chunk.js.map": "/https//shani943.github.io/newsnarayan/static/js/787.20d24746.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.84e0f7c3.js"
+  ]
+}
